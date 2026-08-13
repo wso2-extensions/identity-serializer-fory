@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.2.0" name="identity.serializer.fory" immediate="true" activate="activate" deactivate="deactivate">
+  <implementation class="org.wso2.carbon.identity.serializer.fory.internal.ForySessionSerializerServiceComponent"/>
+</scr:component>
